@@ -1,0 +1,6 @@
+version=1
+id=3239684616
+title=Faster Map Opening
+description=Makes maps open instantly.
+tags=Build 41
+visibility=public
